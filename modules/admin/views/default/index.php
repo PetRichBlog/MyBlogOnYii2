@@ -1,4 +1,5 @@
 <div class="admin-default-index">
+    <h1>Petro Ostapuk Admin</h1>
     <h1><?= $this->context->action->uniqueId ?></h1>
     <p>
         This is the view content for action "<?= $this->context->action->id ?>".
